@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/1da08ec1-8027-4899-83ad-ddb0af4fe497)![image](https://github.com/user-attachments/assets/9eb1669e-c203-44b7-a6de-2e1fda98877c)﻿# Employee-Database-Management
+﻿# Employee-Database-Management
+
+![image](https://github.com/user-attachments/assets/1da08ec1-8027-4899-83ad-ddb0af4fe497)![image](https://github.com/user-attachments/assets/9eb1669e-c203-44b7-a6de-2e1fda98877c)
 
  Мой проект умеет выводить все содержимое таблицы нажав на кнопку READ
 
