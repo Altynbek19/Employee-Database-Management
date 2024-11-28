@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/1da08ec1-8027-4899-83ad-ddb0af4fe497)![image](https://github.com/user-attachments/assets/9eb1669e-c203-44b7-a6de-2e1fda98877c)
 
- Мой проект умеет выводить все содержимое таблицы нажав на кнопку READ
+### Мой проект умеет Создавать нового сотрудника нажав на кнопку Create, может выводить все содержимое таблицы нажав на кнопку Read, может обновлять по имени введя имя в поле Update by name и нажав на кнопку Update и может удалять по имени вводя имя в поле Delete by name и нажав на кнопку Delete 
 
 ## Скриншот базы данных
 
